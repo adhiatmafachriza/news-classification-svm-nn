@@ -1,4 +1,4 @@
-# Comparing SVM and Neural Nets to Solve a News Classification Problem
+# Comparing SVM and Neural Network for News Classification
 
 # Goal
 classify news based on their headline and short description into 4 categories (politics, wellness, entertainment, travel)
